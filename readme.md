@@ -12,9 +12,11 @@
 ### Talk Details : Google Cloud Next '23 Roundup: Let's Dive into the Cloud
 
 #### Speaker 1 : Ashish Patel
+![](speaker-1.jpeg)
 #### Speaker 2 : Bhargav Patel
+![](speaker-2.jpeg)
 #### Speaker 3 : Jeet Shah
-
+![](speaker-3.jpeg)
 
 ### Meetup Details 
 
