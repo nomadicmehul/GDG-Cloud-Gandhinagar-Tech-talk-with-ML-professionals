@@ -1,5 +1,5 @@
 ![#2 Meetup - Tech-talk with ML professionals
- by GDG Cloud Gandhinagar](event-cover.jpg)
+ by GDG Cloud Gandhinagar](event-cover.jpeg)
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
 [![GitHub Mehul Patel](https://img.shields.io/github/followers/nomadicmehul?label=follow&style=social)](https://github.com/nomadicmehul)
