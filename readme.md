@@ -9,7 +9,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsbKUys6gsLn0lQbkIshIIQ)
 
 
-### Talk Details : Google Cloud Next '23 Roundup: Let's Dive into the Cloud
+### Talk Details : GDG Cloud Gandhinagar Tech talk with ML professionals
 
 #### Speaker 1 : Ashish Patel
 ![](speaker-1.jpeg)
